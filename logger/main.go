@@ -1,10 +1,15 @@
 package main
 
-import "fmt"
-
-
+import (
+	"logger/lib/logger"
+)
 
 
 func main() {
-	fmt.Println("Hello, World!")
+	logger.Info("Logger, Info!")
+	logger.Error("Logger, Error!", nil)
+	logger.Debug("Logger, Debug!")
+	logger.Warn("Logger, Warn!")
+	logger.Fatal("Logger, Fatal!")
+	logger.Panic("Logger, Logger!")
 }
