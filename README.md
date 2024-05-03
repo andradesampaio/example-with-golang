@@ -1,6 +1,3 @@
-# example-with-golang
-Example with golang
-
 # Example with Golang
 
 Este projeto foi escrito em Go. Ele inclui exemplos de context, logger, injeção de dependência e um servidor API.
