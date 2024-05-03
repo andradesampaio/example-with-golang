@@ -1,8 +1,8 @@
 package main
 
 import (
-	"dependency_injection/repository"
-	"dependency_injection/service"
+	"dependency-injection/repository"
+	"dependency-injection/service"
 
 	"go.uber.org/fx"
 )

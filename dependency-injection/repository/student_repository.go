@@ -1,7 +1,7 @@
 package repository
 
 import (
-	"dependency_injection/domain"
+	"dependency-injection/domain"
 )
 
 

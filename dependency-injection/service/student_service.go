@@ -1,7 +1,7 @@
 package service
 
 import (
-	"dependency_injection/repository"
+	"dependency-injection/repository"
 
 	"log"
 )

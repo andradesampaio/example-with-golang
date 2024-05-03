@@ -1,7 +1,7 @@
 package service
 
 import ("log"
-	"dependency_injection/domain"
+	"dependency-injection/domain"
 )
 
 type AwsPublisher struct {
